@@ -20,7 +20,7 @@
 
 title: Money Byte Blog
 email: 1337b0t@protonmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   A random collection of thoughts and observations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
